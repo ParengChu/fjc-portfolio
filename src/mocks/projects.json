@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "1",
+    "title": "3D Immersive Apple-Style Experience",
+    "description": {
+      "problem": "Generic product landing pages fail to capture user attention and high-ticket conversion rates in competitive markets.",
+      "solution": "Developed a high-fidelity 3D product showcase using Three.js and Framer Motion, resulting in a 40% increase in user session duration and brand prestige."
+    },
+    "techStack": ["React", "Three.js", "Framer Motion", "Tailwind CSS"],
+    "liveUrl": "#",
+    "githubUrl": "#",
+    "image": "https://picsum.photos/seed/apple/800/600"
+  },
+  {
+    "id": "2",
+    "title": "Full-Stack Healthcare PPE Platform",
+    "description": {
+      "problem": "Healthcare providers struggled with fragmented supply chains and lack of real-time inventory visibility for critical safety equipment.",
+      "solution": "Built a robust ERP-integrated platform allowing hospitals to manage PPE supplies, track shipments, and automate restocking workflows via a Node/Express backend."
+    },
+    "techStack": ["Next.js", "Node.js", "MongoDB", "Express", "shadcn/ui"],
+    "liveUrl": "#",
+    "githubUrl": "#",
+    "image": "https://picsum.photos/seed/ppe/800/600"
+  },
+  {
+    "id": "3",
+    "title": "Luxury E-commerce Brand Ecosystem",
+    "description": {
+      "problem": "A legacy brand required a modern digital storefront that maintained high performance while allowing non-technical staff to manage content.",
+      "solution": "Architected a custom headless WordPress solution with WooCommerce integration, optimizing the checkout flow for a 25% conversion lift."
+    },
+    "techStack": ["WordPress", "WooCommerce", "SCSS", "JavaScript"],
+    "liveUrl": "#",
+    "githubUrl": "#",
+    "image": "https://picsum.photos/seed/shop/800/600"
+  }
+]
