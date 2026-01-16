@@ -2,15 +2,15 @@
 [
   {
     "id": "1",
-    "title": "3D Immersive Apple-Style Experience",
+    "title": "Apple iPhone 3D Web Experience Clone",
     "description": {
-      "problem": "Generic product landing pages fail to capture user attention and high-ticket conversion rates in competitive markets.",
-      "solution": "Developed a high-fidelity 3D product showcase using Three.js and Framer Motion, resulting in a 40% increase in user session duration and brand prestige."
+      "problem": "Static layouts limit storytelling and fail to reflect the sophistication of high-end consumer technology.",
+      "solution": "Engineered a smooth, interactive 3D iPhone showcase with Three.js and Framer Motion, delivering a premium browsing experience aligned with Apple’s design philosophy."
     },
-    "techStack": ["React", "Three.js", "Framer Motion", "Tailwind CSS"],
-    "liveUrl": "#",
-    "githubUrl": "#",
-    "image": "https://picsum.photos/seed/apple/800/600"
+    "techStack": ["React", "Three.js", "GSAP", "Tailwind CSS"],
+    "liveUrl": "https://fusen-apple-web-clone-aa6r.vercel.app/",
+    "githubUrl": "https://github.com/ParengChu/apple-web_clone",
+    "image": "https://raw.githubusercontent.com/ParengChu/fjc-portfolio/refs/heads/main/public/screenshots/apple-clone.png"
   },
   {
     "id": "2",
